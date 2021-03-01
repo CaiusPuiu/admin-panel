@@ -1,0 +1,13 @@
+.post-list {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    margin: 40px;
+}
+.post-title{
+    text-align: center;
+    color:darkmagenta;
+}

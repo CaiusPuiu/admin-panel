@@ -1,0 +1,15 @@
+.user-list {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    align-items: flex-start;
+
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    margin: 40px;
+}
+.list-title{
+    text-align: center;
+    color:darkmagenta;
+}
