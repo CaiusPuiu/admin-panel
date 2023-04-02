@@ -13,12 +13,14 @@ class App extends React.Component {
       users: [],
       posts: [],
       usersTrigger: true,
-      postsTrigger: false
+      postsTrigger: false,
+            foo1:'bar',
+            bar3:'a1',
+
     };
 
     this.handleUserChange = this.handleUserChange.bind(this);
     this.handlePostsChange = this.handlePostsChange.bind(this);
-    // this.handleDeleteUser= this.handlePostsChange(this);
   }
 
   handleBackgroundChange(event) {
