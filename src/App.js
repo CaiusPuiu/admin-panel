@@ -15,7 +15,7 @@ class App extends React.Component {
       usersTrigger: true,
       postsTrigger: false,
             foo1:'bar',
-            bar3:'a',
+            bar3:'a1',
 
     };
 
