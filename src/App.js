@@ -18,7 +18,6 @@ class App extends React.Component {
 
     this.handleUserChange = this.handleUserChange.bind(this);
     this.handlePostsChange = this.handlePostsChange.bind(this);
-    // this.handleDeleteUser= this.handlePostsChange(this);
   }
 
   handleBackgroundChange(event) {
