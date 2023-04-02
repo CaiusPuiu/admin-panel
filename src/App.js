@@ -14,6 +14,9 @@ class App extends React.Component {
       posts: [],
       usersTrigger: true,
       postsTrigger: false,
+      foo:'bar',
+            foo1:'bar',
+
     };
 
     this.handleUserChange = this.handleUserChange.bind(this);
